@@ -1,1 +1,2 @@
-this is first file in local repository
+this is first file in local repository.
+modified
